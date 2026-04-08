@@ -1,5 +1,5 @@
 [package]
-name = "even-odd"
+name = "even-odd-traits"
 description = "Utility traits for even and odd"
 license = "MIT OR Apache-2.0"
 version = "1.0.0"

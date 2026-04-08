@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "even-odd"
+name = "even-odd-traits"
 version = "1.0.0"
