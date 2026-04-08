@@ -2,6 +2,12 @@
 
 For when modulo is just too hard
 
+## Installation
+
+Install with cargo.
+
+`cargo add even-odd-traits`
+
 ## Usage
 
 Abstract away remainder logic when checking even-ness or odd-ness! Pre-imlpemented for primitive numeric types.
